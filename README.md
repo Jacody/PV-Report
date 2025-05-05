@@ -2,6 +2,9 @@
 
 Dieses Projekt erstellt automatisierte, professionelle PDF-Berichte für Photovoltaikanlagen. Es liest Anlagendaten aus Excel-Dateien und generiert detaillierte Berichte mit Informationen zu Erträgen, Ereignissen und Anlagenkomponenten.
 
+[📄 Beispielreport direkt anzeigen](https://raw.githubusercontent.com/Jacody/PV-Report/main/Beispielreporting_2022_Securenergy.pdf)
+
+
 ## Funktionen
 
 - Automatische Erstellung von PV-Anlagenberichten
